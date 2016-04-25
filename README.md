@@ -12,4 +12,6 @@
    
 [h2-1.3.159.jar](https://github.com/adm3942soit/test/tree/master/lib)
 
-[H2Console]()
+![H2Console](https://github.com/adm3942soit/test/blob/master/H2Console.png?raw=true)
+
+3. Click button "connect"
